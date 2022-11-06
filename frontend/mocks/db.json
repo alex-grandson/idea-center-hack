@@ -1,0 +1,645 @@
+{
+  "profile-prepare": {
+    "employment": [
+      {
+        "name": "На себя",
+        "value": "self_employed"
+      },
+      {
+        "name": "По найму",
+        "value": "employed"
+      },
+      {
+        "name": "Без работы",
+        "value": "unemployed"
+      }
+    ],
+    "citezenship": [
+      {
+        "name": "РФ",
+        "country_code": "RU"
+      }
+    ],
+    "country": [
+      {
+        "name": "Россия",
+        "code": "RU"
+      },
+      {
+        "name": "Казахстан",
+        "code": "KZ"
+      }
+    ],
+    "cities": {
+      "RU": [
+        {
+          "name": "Санкт-Петербург",
+          "code": "SPB"
+        },
+        {
+          "name": "Москва",
+          "code": "MSK"
+        }
+      ],
+      "KZ": [
+        {
+          "city_name": "Алматы",
+          "city_code": "AMT",
+          "city_id": 3
+        }
+      ]
+    },
+    "skills": [
+      {
+        "name": "Программист",
+        "value": "programmer",
+        "category": "it"
+      },
+      {
+        "name": "Инженер БД",
+        "value": "db-engineer",
+        "category": "it"
+      },
+      {
+        "name": "Инженер-ядерщик",
+        "value": "nuclear-engineer",
+        "category": "engineering"
+      },
+      {
+        "name": "Инженер-энергетик",
+        "value": "engineer",
+        "category": "engineering"
+      },
+      {
+        "name": "Программист",
+        "value": "programmer",
+        "category": "it"
+      },
+      {
+        "name": "Инженер",
+        "value": "engineer",
+        "category": "engineering"
+      }
+    ]
+  },
+  "projects": [
+    {
+      "uuid": "alskdjf",
+      "name": "Разработка веб приложения",
+      "description": "Недавно я, никогда не бывший двачером, подсел на пасты про говно, которые я читал в контакти. Первое время мне это дико доставляло, как будто я читал какие-то книги, хуй знает. И каждый раз, когда я их читал, я не понимал, «Как, будучи уже достаточно взрослым человеком можно обосраться?». Просто у меня всегда была следующая техника сранья: Я терпел день, чтобы потом говно само вылетало. Мне не было тяжело терпеть или что-то. ",
+      "image": "https://rr-grup.ru/upload/iblock/6f0/6f0bb79aef7231872fc433acaee5e85b.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "1",
+        "firstname": "Greg",
+        "lastname": "Penisov",
+        "image": "https://avatars.mds.yandex.net/i?id=ae32873ae4fe322ed42c91f20c423fd46b090931-4033630-images-thumbs&n=13"
+      },
+      "date": "01.02.2022",
+      "slots": [
+        { "category": "Бебранюх" },
+        { "category": "Механик" },
+        { "category": "Водитель" },
+        { "category": "Таксист" }
+      ]
+    },
+    {
+      "uuid": "poiupoi",
+      "name": "Уборка в саду",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuJ9PJaxTKhKsXaCDtN3Md9Juz-NIE4p8AVg&usqp=CAU",
+      "description": "Как то сижу на толкане в школе, давлю повидло чтобы было не видно, и тут блять я понял, что вчерашний арахис нихуя не переварился и скребется как в крипи-пастах, только не в дверь а в очко. Пиздец короче, срать больно, но В АМБАРЕ ХМЕЛЯ МНОГО а долгоносика нет. Ну я так и сижу, как Прометей прикованный к очку а говноорел клюет мой анус. ",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "2",
+        "firstname": "Leha",
+        "lastname": "Vnukov",
+        "image": "https://pic.rutubelist.ru/user/66/07/660781fbc2ad90a85e7f9b6f02db4e69.jpg"
+      },
+      "date": "02.03.2022",
+      "slots": [
+        { "category": "Фронт" },
+        { "category": "Рэпер" },
+        { "category": "Чирон беба" },
+        { "category": "Драйвер" }
+      ]
+    },
+    {
+      "uuid": "qwerqwer",
+      "name": "Новая нейросеть",
+      "description": "ЧАСТЬ 1. Предисловие Я обычный четкий пацан. Вася Шальнев из Омска, люблю срать в одном туалете советском рынке. Я всегда сру в этом туалете люблю там всегда какую нибудь гадость сделать (то насру мимо просто, то в ведро без мусорного мешка, чтобы его нужно потом было мыть, то посру мимо и возьму тряпку размажу говно по полу, то ведро на гавно поставлю и прижму чтоб потом техничке надо было отдирать мой сюрприз). И никт",
+      "image": "https://phonoteka.org/uploads/posts/2021-06/1624459402_10-phonoteka_org-p-stroika-oboi-krasivo-11.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "3",
+        "firstname": "jekichan",
+        "lastname": "Tankov",
+        "image": "https://fanibani.ru/images/wp-content/uploads/2018/11/koty-22.jpg"
+      },
+      "date": "03.04.2022",
+      "slots": [
+        { "category": "Абобус" },
+        { "category": "Котик" },
+        { "category": "Плотник" },
+        { "category": "Дворник" }
+      ]
+    },
+    {
+      "uuid": "asdffdgh",
+      "name": "Пылесосить пол",
+      "description": "Моя лучшая покупка в этом году! Купил два месяца назад простенькие VR очки и не могу нарадоваться. Поймите правильно, я ни разу не геймер, иначе полноценный шлем купил бы. Мне этот девайс необходим для намного более важных дел, нежели в гульки играть. Всё просто. Я их надеваю, когда хожу срать. Вы не поверите, дамы и господа, но это просто потрясающе! Ни с чем не сравнимое ощущение того, что ты срёшь в таких местах, куда в реале добираться...",
+      "image": "https://phonoteka.org/uploads/posts/2021-06/1624459441_55-phonoteka_org-p-stroika-oboi-krasivo-61.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "4",
+        "firstname": "IPAD",
+        "lastname": "Pahan",
+        "image": "https://fikiwiki.com/uploads/posts/2022-02/1644991786_3-fikiwiki-com-p-prikolnie-kartinki-pro-kotov-3.jpg"
+      },
+      "date": "04.05.2022",
+      "slots": [
+        { "category": "Стив хуйс" },
+        { "category": "Космонавт" },
+        { "category": "Леха внук" },
+        { "category": "Клоун" }
+      ]
+    },
+    {
+      "uuid": "123asdf",
+      "name": "Чаронить бебру",
+      "description": "Батя сказывал такой случай из жизни. Случилось раз бате то моему ворочаться поздно домой, ну хули блядь, задержался на работе малость, три семерки пил, он здоровый кабан был, батя то мой, такому как он много надо. Ну и идет он, а дорога лежала через старый заброшенный погост, не хоронили там никого лет 70. Тут блядь приспичило бате посрать.Ну он сел под кустиком, портки то блядь спустил и давай тужиться. Только, грит, посрал, как из глубины...",
+      "image": "https://venaavstrijafoto.ru/wp-content/uploads/2022/02/7834877348783467693834.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "5",
+        "firstname": "Romich",
+        "lastname": "Greek",
+        "image": "https://fikiwiki.com/uploads/posts/2022-02/1644991762_24-fikiwiki-com-p-prikolnie-kartinki-pro-kotov-25.jpg"
+      },
+      "date": "05.06.2022",
+      "slots": [
+        { "category": "Грузчик" },
+        { "category": "Механик" },
+        { "category": "Водитель" },
+        { "category": "Продавец" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    },
+    {
+      "uuid": "1987asdf",
+      "name": "Купить твиттер",
+      "description": "В общем, пилю свою прохладную о том, как съехал недавно от предков, решил наконец жить один. Всё таки мне 24 года, «чё как лох то». А АИБ то самое место, где можно выплеснуть немножко говна. О нём и пойдёт речь… Хоть предки меня и не выгоняли, решил я жить один. Нашёл хату в своём Мухосранске с населением 80ка зомбаков. И хата ничего так, и цена не кусается. Предки всучили мне собаку, мол, забирай, нахуй она нам тут нужна. Да и мне она тоже...",
+      "image": "https://www.mperspektiva.ru/upload/iblock/532/5328a0eeb8e9d08126e966d7f1291b45.jpg",
+      "presentation_link": "https://vk.com/x1kk4",
+      "creator": {
+        "uuid": "6",
+        "firstname": "Elon",
+        "lastname": "Musk",
+        "image": "https://krasivosti.pro/uploads/posts/2022-01/1641308291_11-krasivosti-pro-p-prikolnie-koti-krasivo-foto-11.jpg"
+      },
+      "date": "06.07.2022",
+      "slots": [
+        { "category": "Твиттергай" },
+        { "category": "Ивангай" },
+        { "category": "Бебра" },
+        { "category": "Пилот" }
+      ]
+    }
+  ],
+  "profiles": [
+    {
+      "uuid": "",
+      "email": "",
+      "firstname": "",
+      "lastname": "",
+      "patronymic": "",
+      "country_code": "",
+      "role": ""
+    },
+    {
+      "uuid": "",
+      "email": "",
+      "firstname": "",
+      "lastname": "",
+      "patronymic": "",
+      "country_code": "",
+      "role": ""
+    },
+    {
+      "uuid": "",
+      "email": "",
+      "firstname": "",
+      "lastname": "",
+      "patronymic": "",
+      "country_code": "",
+      "role": ""
+    },
+    {
+      "uuid": "",
+      "email": "",
+      "firstname": "",
+      "lastname": "",
+      "patronymic": "",
+      "country_code": "",
+      "role": ""
+    }
+  ]
+}
